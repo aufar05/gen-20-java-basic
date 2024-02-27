@@ -1,3 +1,4 @@
+//nama class utama harus sama dengan nama file java jika tidak akan terjadi error
 public class HelloWorld {
     //ini adalah method mainnya yang wajib dibuat untuk menjalankan program
     public static void main(String[] args) {
